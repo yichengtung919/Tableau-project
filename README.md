@@ -1,7 +1,6 @@
 # Final-Project-Tableau
 
-Please use this link to find my Tableau project- 
-https://prod-ca-a.online.tableau.com/#/site/yichengtung91938afa914d7/workbooks/396169?:origin=card_share_link
+
 
 ## Project/Goals
 The goal of the project is to explore the given data sources and use tableau as the primary tool to draw insights from the them and visualize the outcomes. By answering the questions, relationships between different tables are built through it. 
